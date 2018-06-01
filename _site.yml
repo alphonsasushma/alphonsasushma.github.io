@@ -1,0 +1,11 @@
+name: Fred Poole
+output_dir: '.'
+output:
+  html_document:
+    theme: flatly
+navbar:
+  title: ''
+  left:
+  - text: Home
+    icon: fa-home
+    href: index.html
