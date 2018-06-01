@@ -1,5 +1,4 @@
 name: Fred Poole
-output_dir: '.'
 output:
   html_document:
     theme: flatly
